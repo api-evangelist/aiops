@@ -1,0 +1,18 @@
+title: AIOps
+description: AIOps applies artificial intelligence and machine learning to IT operations,
+  enabling intelligent alerting, anomaly detection, automated root cause analysis,
+  and predictive incident management.
+url: https://aiops.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
