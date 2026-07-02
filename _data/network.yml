@@ -1,0 +1,26 @@
+related:
+- name: AI Automation
+  url: https://ai-automation.apievangelist.com
+  icon: https://ai-automation.apievangelist.com/icon.png
+  description: AI automation combines artificial intelligence with workflow and process automation to
+    create intelligent, autonomous systems including AI agent frameworks, autonomous coding…
+- name: Agents
+  url: https://agents.apievangelist.com
+  icon: https://agents.apievangelist.com/icon.png
+  description: An index and topic collection covering AI agents, agent frameworks, and agent runtimes
+    that enable autonomous reasoning, tool use, and multi-step task execution. This profile…
+- name: SaaS Management
+  url: https://saas-management.apievangelist.com
+  icon: https://saas-management.apievangelist.com/icon.png
+  description: SaaS Management covers the tools, platforms, and practices used by organizations to discover,
+    manage, optimize, and secure their portfolio of SaaS applications. The global SaaS…
+- name: Agent Skills
+  url: https://agents-skills.apievangelist.com
+  icon: https://agents-skills.apievangelist.com/icon.png
+  description: An index and topic collection covering Agent Skills, the packaged, file-based capability
+    units that AI coding agents load to extend their behavior. Agent Skills bundle…
+- name: Bots
+  url: https://bots.apievangelist.com
+  icon: https://bots.apievangelist.com/icon.png
+  description: An index and topic collection covering chatbots, conversational agents, and bot frameworks
+    across messaging, voice, and customer experience channels. Bots are scripted or…
