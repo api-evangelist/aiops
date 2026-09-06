@@ -1,7 +1,7 @@
 ---
-title: MCP Gateway with Curated GraphQL Persisted Operations
-link: https://wundergraph.com/blog/graphql-persisted-operations-llms-mcp
-published: '2025-10-17'
+title: Safelist GraphQL Operations for AI Agents | Cosmo MCP Gateway
+link: https://wundergraph.com/blog/safelist-graphql-operations-for-ai-agents-cosmo-mcp
+published: '2026-06-11'
 provider: wundergraph
 repo: https://github.com/api-evangelist/wundergraph
 domain: wundergraph.com
