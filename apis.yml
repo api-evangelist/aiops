@@ -1,5 +1,6 @@
 aid: aiops
 name: AIOps
+kind: topic
 description: >-
   AIOps applies artificial intelligence and machine learning to IT operations,
   enabling intelligent alerting, anomaly detection, automated root cause
